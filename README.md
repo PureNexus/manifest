@@ -1,4 +1,4 @@
-The PureNexus Project
+The PureNexus unofficial
 =====================
 
 Getting Started
@@ -10,7 +10,7 @@ To build PureNexus from source, you'll need to be familiar with
 
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/PureNexusProject/manifest.git -b mm2
+	repo init -u https://github.com/PureNexus/manifest.git -b mm2
 
 Then to sync source, use this command:
 
