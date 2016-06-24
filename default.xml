@@ -19,7 +19,7 @@
   <project path="build" name="android_build" groups="pdk" remote="purenexus" revision="mm2" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="manifest" name="manifest" remote="pure" revision="mm2" />
+  <project path="manifest" name="manifest" remote="purenexus" revision="mm2" />
   <project path="art" name="android_art" groups="pdk" remote="pure" revision="mm2" />
   <project path="device/huawei/angler" name="android_device_huawei_angler" groups="device,angler,broadcom_pdk" remote="pure" revision="mm2" />
   <project path="external/busybox" name="android_external_busybox" remote="pure" revision="mm2" />
