@@ -10,7 +10,7 @@
            fetch="https://github.com/PureNexusProject/" />
   <remote name="purenexus"
            fetch="https://github.com/PureNexus/" /> 
-  <default revision="refs/tags/android-6.0.1_r45"
+  <default revision="refs/tags/android-6.0.1_r54"
            remote="aosp"
            sync-c="true"
            sync-j="4" />
