@@ -37,6 +37,7 @@
   <project path="frameworks/native" name="android_frameworks_native" groups="pdk" remote="pure" revision="mm2" />
   <project path="frameworks/opt/cards" name="android_frameworks_opt_cards" remote="pure" revision="mm2" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" groups="pdk" remote="pure" revision="mm2" />
+  <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" groups="pdk,broadcom_wlan" remote="pure" revision="mm2" />
   <project path="hardware/marvell/wlan" name="android_hardware_marvell_wlan" remote="pure" revision="mm2" />
   <project path="packages/apps/Browser" name="android_packages_apps_Browser" groups="pdk-fs" remote="pure" revision="mm2" />
   <project path="packages/apps/CellBroadcastReceiver" name="android_packages_apps_CellBroadcastReceiver" remote="pure" revision="mm2" />
@@ -323,7 +324,6 @@
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" groups="pdk-cw-fs,pdk-fs" />
   <project path="hardware/akm" name="platform/hardware/akm" />
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" />
-  <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="pdk,broadcom_wlan" />
   <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" groups="intel" />
   <project path="hardware/intel/bootstub" name="platform/hardware/intel/bootstub" groups="intel" />
   <project path="hardware/intel/common/bd_prov" name="platform/hardware/intel/common/bd_prov" groups="intel" />
