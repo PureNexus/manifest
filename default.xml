@@ -61,6 +61,7 @@
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="purenexus" revision="mm2" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="purenexus" revision="mm2" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="purenexus" revision="mm2" />
+  <project path="system/bt" name="android_system_bt" groups="pdk" remote="pure" revision="mm2" /> 
   <project path="system/core" name="android_system_core" groups="pdk" remote="pure" revision="mm2" />
   <project path="system/extras" name="android_system_extras" groups="pdk" remote="pure" revision="mm2" />
   <project path="system/vold" name="android_system_vold" groups="pdk" remote="pure" revision="mm2" />
@@ -443,7 +444,6 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" />
-  <project path="system/bt" name="platform/system/bt" groups="pdk" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" />
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
